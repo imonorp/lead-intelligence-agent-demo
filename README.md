@@ -1,5 +1,3 @@
-# Lead Intelligence Agent (Prototype)
-
 ## Overview
 This project is a **prototype web agent** designed to identify, enrich, and rank scientific and industry professionals for 3D in-vitro models in therapeutic research.
 
@@ -39,3 +37,6 @@ pip install -r requirements.txt
 ## Screenshots
 ![Dashboard Screenshot 1](docs/dashboard_screenshot1.png)
 ![Dashboard Screenshot 2](docs/dashboard_screenshot2.png)
+=======
+# lead-intelligence-agent-demo
+>>>>>>> f73cf02c1b701744d87e5f14b28ef5b4bc2e97d1
